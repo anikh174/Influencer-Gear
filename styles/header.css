@@ -1,0 +1,12 @@
+.header .navbar{
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.menu-container .menu-content{
+    list-style: none;
+    text-decoration: none;
+    gap: 34px;
+}
