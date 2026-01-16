@@ -19,3 +19,7 @@
     color: #D9DBE1;
     margin-bottom: 20px;
 }
+
+.footer-social-icons{
+    gap: 16px;  
+}

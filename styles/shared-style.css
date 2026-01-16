@@ -20,3 +20,12 @@
     border-radius: 41px;
     color: white;
 }
+
+.btn:hover{
+    background-color: transparent;
+    color: black;
+    border: 1px solid black;
+    transform: scale(1.05);
+    transition: 0.2s;
+    cursor: pointer;
+}

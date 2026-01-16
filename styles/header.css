@@ -20,6 +20,10 @@
     font-size: 1rem;
 }
 
+.menu-container .menu-content .nav-link:hover{
+    color: #E02C6D;
+}
+
 .menu-container .menu-content .nav-link{
     text-decoration: none;
     font-style: none;
