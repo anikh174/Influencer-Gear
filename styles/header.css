@@ -2,7 +2,7 @@
     align-items: center;
     justify-content: space-between;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 87px auto 0px;
 }
 
 .header .navbar .nav-logo{
@@ -35,11 +35,13 @@
 .banner .banner-text, .banner .banner-text .banner-details{
     width: 582px;
     gap: 16px;
+    margin-bottom: 16px;
 }
 
 .banner .banner-text .banner-title{
     font-size: 3.37rem;
     font-weight: 700;
+    margin-bottom: 16px;
 }
 
 .banner-image{
