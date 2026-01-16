@@ -5,8 +5,47 @@
     margin: 0 auto;
 }
 
+.header .navbar .nav-logo{
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
 .menu-container .menu-content{
     list-style: none;
-    text-decoration: none;
     gap: 34px;
+}
+
+.menu-container .menu-content li{
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.menu-container .menu-content .nav-link{
+    text-decoration: none;
+    font-style: none;
+}
+
+.banner{
+    max-width: 1200px;
+    margin: 50px auto;
+    gap: 130px;
+    align-items: center;
+}
+
+.banner .banner-text, .banner .banner-text .banner-details{
+    width: 582px;
+    gap: 16px;
+}
+
+.banner .banner-text .banner-title{
+    font-size: 3.37rem;
+    font-weight: 700;
+}
+
+.banner-image{
+    background-image: url("../images/Circle\ design.svg");
+}
+
+.banner-image img{
+    margin: 30px 30px 30px 2px;
 }
